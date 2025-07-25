@@ -1,1 +1,3 @@
-# alu-higher_level_programming
+# ALU Higher Level Programming
+
+This repository contains exercises and projects for the ALU Higher Level Programming curriculum.
